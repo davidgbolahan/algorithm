@@ -1,0 +1,29 @@
+Algorithm to determine the length of the sentense.
+Solution
+Start the Algorithm
+get the sentence ="This is my Algorithm project".
+get the value length =0
+Count the no of characters in the sentence
+Then for each Count at period
+Get the final value of length 
+End 
+
+Algorithm to determine the number of words in the sentence.
+Start
+get a variable word=0
+count the number of strings in sentence
+for each count let word =word + 1
+end the count at the period
+get the final value of word 
+end
+
+Algorithm
+Start
+get the sentence='Thisis my Algorithmproject'.
+get a variable each=0
+get a variable vowels= A, E, I, O, U 
+count the number of vowels in sentence
+In each count let each =each+1
+end the count at the period
+get the final value of each ]
+end 
